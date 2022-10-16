@@ -1,0 +1,13 @@
+C:\Users\erdem\source\repos\XOX oyunu\bin\Debug\XOX oyunu.exe.config
+C:\Users\erdem\source\repos\XOX oyunu\bin\Debug\XOX oyunu.exe
+C:\Users\erdem\source\repos\XOX oyunu\bin\Debug\XOX oyunu.pdb
+C:\Users\erdem\source\repos\XOX oyunu\obj\Debug\XOX oyunu.csproj.AssemblyReference.cache
+C:\Users\erdem\source\repos\XOX oyunu\obj\Debug\XOX_oyunu.Properties.Resources.resources
+C:\Users\erdem\source\repos\XOX oyunu\obj\Debug\XOX oyunu.csproj.GenerateResource.cache
+C:\Users\erdem\source\repos\XOX oyunu\obj\Debug\XOX oyunu.csproj.CoreCompileInputs.cache
+C:\Users\erdem\source\repos\XOX oyunu\obj\Debug\XOX oyunu.exe
+C:\Users\erdem\source\repos\XOX oyunu\obj\Debug\XOX oyunu.pdb
+C:\Users\erdem\source\repos\XOX oyunu\bin\Debug\agq\XOX oyunu.resources.dll
+C:\Users\erdem\source\repos\XOX oyunu\obj\Debug\agq\XOX oyunu.resources.dll
+C:\Users\erdem\source\repos\XOX oyunu\obj\Debug\XOX_oyunu.XOX.resources
+C:\Users\erdem\source\repos\XOX oyunu\obj\Debug\XOX_oyunu.XOX.agq.resources
