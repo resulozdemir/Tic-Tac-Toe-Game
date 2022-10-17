@@ -9,9 +9,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
-//githuba at
-//programi ingilizce değişkenlere cevir
-
 
 namespace XOX_oyunu
 {
@@ -21,8 +18,8 @@ namespace XOX_oyunu
         //turn = 0 X-turn
         //turn = 1 O-turn
 
-        Image X = new Bitmap(@"C:\Users\erdem\Desktop\görsel programlama\1.hafta\x.png");
-        Image O = new Bitmap(@"C:\Users\erdem\Desktop\görsel programlama\1.hafta\o.png");
+        Image X = new Bitmap(@"C:\Users\resul\Desktop\görsel programlama\1.hafta\x.png");
+        Image O = new Bitmap(@"C:\Users\resul\Desktop\görsel programlama\1.hafta\o.png");
 
         void xTurn()
         {
