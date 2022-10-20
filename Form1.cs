@@ -24,13 +24,13 @@ namespace XOX_oyunu
         void xTurn()
         {
             turn++;
-            winer(flag);
+            winer();
         }
 
         void oTurn()
         {
             turn--;
-            winer(flag);
+            winer();
         }
 
         void xWin()
@@ -49,7 +49,7 @@ namespace XOX_oyunu
             yenidenOyna.Visible = Enabled;
         }
 
-        void winer(int flag)
+        void winer()
         {
             
 
